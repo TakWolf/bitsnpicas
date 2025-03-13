@@ -1,9 +1,0 @@
-/bin/
-/dev/
-/doc/
-/safespace/
-/*.app
-/*.dmg
-/*.jar
-/*.tgz
-/*.zip
